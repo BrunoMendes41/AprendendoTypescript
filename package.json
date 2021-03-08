@@ -1,0 +1,24 @@
+{
+  "name": "AprendendoTypescript",
+  "version": "1.0.0",
+  "description": "repositório para documentar estudos de typescript",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMendes41/AprendendoTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoMendes41/AprendendoTypescript/issues"
+  },
+  "homepage": "https://github.com/BrunoMendes41/AprendendoTypescript#readme"
+}
