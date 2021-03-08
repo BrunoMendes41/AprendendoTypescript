@@ -51,3 +51,10 @@ let cart: object;
 cart = {
   key: "fj",
 };
+
+// type inference
+let message2 = "mensagem";
+
+window.addEventListener("click", (e) => {
+  e.target;
+});
