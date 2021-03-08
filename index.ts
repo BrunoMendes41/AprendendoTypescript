@@ -1,6 +1,6 @@
 const n1 = document.querySelector("#n1") as HTMLInputElement;
 const n2 = document.querySelector("#n2") as HTMLInputElement;
-const btn = document.querySelector("#btnSum");
+const btn = document.querySelector("#btnSum")!;
 
 function sum(a: number, b: number) {
   return a + b;
